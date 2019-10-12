@@ -1,0 +1,34 @@
+    0.in: Inserir (1), Imprimir idriver (8 1), Imprimir ARQUIVO (7) - Certo
+    1.in: + Buscar por código (4 1), Listar por código (5 1) - Certo
+    2.in: + Buscar por data (4 2), Listar por motorista (5 3), Imprimir idate por data (8 2), Imprimir itime por hora (8 3) - Certo
+    3.in: + Buscar por localidade (4 3), Listar por trajeto (5 2), Listar por data e hora (5 4), Imprimir iroute (8 4) - Certo
+    4.in: + Buscar por localidade e data (4 4), Listar por trajeto e data e hora (5 5) - CERTO POHA
+    5.in: + Alterar (2) - Certo =3
+    6.in: + Remover (3) - Certo n esperava ser tão facil
+    7.in: + Liberar espaço (6) - Certo =3
+    8.in: Todas as opções, atenção na busca e impressão de arquivo e índice após remoção - CERRTO
+    9.in: Todas as opções, atenção em testes com ARQUIVO antes e após remoção e alteração - CERRTO
+    10.in: Todas as opções, atenção em testes com ARQUIVO antes e após remoção + inserção de produto removido - CERRTO
+    11.in: Todas as opções - CERRTO
+    12.in: 1.in com arquivo - CERRTO
+    13.in: 2.in com arquivo - CERRTO
+    14.in: 3.in com arquivo - CERRTO
+    15.in: 4.in com arquivo - CERRTO
+    16.in: 5.in com arquivo - CERTO
+    17.in: 6.in com arquivo - CERTO
+    18.in: 7.in com arquivo - CERTO
+    19.in: 8.in com arquivo - CERTO
+    20.in: 9.in com arquivo - CERTO
+    21.in: 10.in com arquivo - CERTO
+    22.in: 11.in com arquivo - CERTO
+    23.in: Opções 1, 4, 7, 8 - CERTO
+    24.in: Opções 1, 4, 7, 8 - CERTO
+    25.in: Opções 1, 4, 5, 7, 8 - CERTO
+    26.in: Opções 1, 2, 4, 5, 7, 8 - CERTO
+    27.in: Opções 1, 2, 3, 4, 5, 7, 8 - CERTO
+    28.in: Opções 1, 2, 3, 4, 5, 6, 7, 8 - CERTO
+    29.in: Todas as opções com arquivo - CERTO
+    30.in: Todas as opções com arquivo
+    31.in: Todas as opções com arquivo
+    32.in: Todas as opções com arquivo
+    33.in: Todas as opções com arquivo
